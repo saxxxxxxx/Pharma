@@ -1,6 +1,6 @@
 # Ex.10 Responsive Web Design using Bootstrap
 ## Date:
-22/04/24
+16/05/24
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
 
